@@ -90,4 +90,4 @@ O objetivo é evoluir este MVP para uma plataforma estilo startup focada em:
 Este projeto representa um **protótipo funcional inicial** e está em constante evolução.
 
 ## Demo online
-https://idea-forge-ai-vneuqmhp6ow4tgddcdeya4.streamlit.app/
+https://hjpxjhq3af6tpeg3cjcyfe.streamlit.app/
