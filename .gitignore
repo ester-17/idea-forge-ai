@@ -1,0 +1,5 @@
+ideaAI/
+.env
+*.pyc
+__pycache__/
+.streamlit/secrets.toml
