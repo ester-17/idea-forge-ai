@@ -1,7 +1,9 @@
 import streamlit as st
 import os
+from dotenv import load_dotenv
 import google.generativeai as genai
 
+load_dotenv()
 
 def get_api_key():
     key = st.secrets.get("GEMINI_API_KEY") or os.getenv("GEMINI_API_KEY")
